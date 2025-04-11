@@ -23,4 +23,5 @@
 4. Restricciones 
     - Usar la versión C23 del lenguaje C.
 
-- Hipótesis del trabajo: Generar, compilar y ejecutar un código que muestre un mensaje de saludo, además de subirlo a el correspondiente repositorio de Github
+- Hipótesis del trabajo:
+    - Generar, compilar y ejecutar un código que muestre un mensaje de saludo, además de subirlo a el correspondiente repositorio de Github
