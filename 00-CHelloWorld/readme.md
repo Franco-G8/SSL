@@ -5,26 +5,7 @@
     - Legajo: 203.674-5
     - Apellido: Giraldes
     - Nombre: Franco
+
 - Compilador: GCC
     - Versión: 14.2.0
-    - Versión de C que compila:  C23
-
-- Enunciado:
-
-1. Objetivos
-    - Demostrar capacidad para editar, compilar, y ejecutar programas C mediante el desarrollo de un programa simple.
-    - Tener un primer contacto con las herramientas necesarias para abordar la resolución de los trabajos posteriores.
-    - Creación de repositorio personal git.
-    - Armado de equipo de trabajo.
-2. Temas
-    - Sistema de control de versiones.
-    - Lenguaje de programación C.
-    - Proceso de compilación.
-    - Pruebas.
-3. Problema 
-    - Adquirir y preparar los recursos necesarias para resolver los trabajos del curso.
-4. Restricciones 
-    - Usar la versión C23 del lenguaje C.
-
-- Hipótesis del trabajo:
-    - Generar, compilar y ejecutar un código que muestre un mensaje de saludo, además de subirlo a el correspondiente repositorio de Github
+    - Versión de C que compila:  C17
