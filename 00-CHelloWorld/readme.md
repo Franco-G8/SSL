@@ -8,8 +8,4 @@
 
 - Compilador: GCC
     - Versión: 14.2.0
-    - Versión de C que compila:  C23
-
-- Compilador: GCC
-    - Versión: 14.2.0
     - Versión de C que compila: C17
