@@ -5,6 +5,7 @@
     - Legajo: 203.674-5
     - Apellido: Giraldes
     - Nombre: Franco
+
 - Compilador: GCC
     - Versión: 14.2.0
     - Versión de C que compila:  C23
